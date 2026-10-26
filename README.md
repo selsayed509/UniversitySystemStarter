@@ -7,6 +7,12 @@ university class diagram from the lecture: `Person`, `Student`, `Department` and
 Open `UniversitySystemStarter.sln` in Visual Studio 2022 (.NET 8 console app) and build it once
 (Build > Build Solution) before using Class View or the class diagram.
 
+## Use of Generative AI
+The C# code for the University System was generated with Claude (Anthropic), from my own class diagram design. 
+This includes the comments and the accompanying README, which was written to help you follow the code. 
+I reviewed and tested the code, and made minor changes before using/making it available for this lecture/lab. 
+The design decisions and responsibility for the accuracy remain mine.
+
 ## Build order used in the demo
 
 1. **Adding classes.** Project > Add > Class, one class per file, file name = class name.
